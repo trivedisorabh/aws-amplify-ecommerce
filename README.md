@@ -24,16 +24,16 @@ We will break this builder session into stages to build out our application.
 ## Store
 ![store](.images/store-demo.png)
 
-## [Environment Setup](documentation/setup/)
+## 1. [Environment Setup](documentation/setup/)
 We'll be using the AWS Cloud9 environment to work with Amplify and deploy our application.  This step will create and configure the Cloud9 environment.  We'll then install the AWS Amplify CLI.
 
-## [Build the Amplify Backend](documentation/backend/)
+## 2. [Build the Amplify Backend](documentation/backend/)
 Create our backend services (Pinpoint, Cognito, DynamoDB, API Gateway and Lambda)
 
-## [Hosting for E-commerce Store](documentation/hosting/)
+## 3. [Hosting for E-commerce Store](documentation/hosting/)
 We'll use Amplify to setup hosting for our web application and deploy it to an S3 bucket.
 
-## [Pinpoint Personalization](documentation/pinpoint/)
+## 4. [Pinpoint Personalization](documentation/pinpoint/)
 Explore Amazon Pinpoint and setup our segments and campaign to capture and react to events on our web application
 
 <!-- ## [Homework: Integrate Personalize for Recommendations](documentation/personalize)
