@@ -124,7 +124,7 @@ You should see your resouces being provisioned now, this should take a couple mi
 
 Run another **`amplify status`** and you should now see the following
 
-```
+```Shell
 | Category  | Resource name           | Operation | Provider plugin   |
 | --------- | ----------------------- | --------- | ----------------- |
 | Auth      | awsamplifyecommerceauth | No Change | awscloudformation |

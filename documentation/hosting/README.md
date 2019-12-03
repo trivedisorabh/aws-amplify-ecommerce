@@ -38,7 +38,7 @@ amplify add hosting
 
 7. Run **`amplify status`** to list your configuration.  You should now see your new hosting configuration as being ready to create in AWS
 
-```
+```Shell
 | Category  | Resource name           | Operation | Provider plugin   |
 | --------- | ----------------------- | --------- | ----------------- |
 | Hosting   | S3AndCloudFront         | Create    | awscloudformation |
