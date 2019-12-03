@@ -36,7 +36,6 @@ Follow the commands in the follwing code block, taking note of the answers.
 **NOTE**: Use your arrow keys to select from a list of options, followed by the enter key
 
 ```
-? Do you want to use an existing environment? No
 ? Enter a name for the environment reinvent
 ? Choose your default editor: None
 Using default provider  awscloudformation
@@ -90,6 +89,7 @@ We should now have an initialized project in the cloud.
 
 Run **`amplify status`** to get a list of resources that Amplify has detected in the project.  You should see a table like the one below:
 
+```Shell
 | Category  | Resource name           | Operation | Provider plugin   |
 | --------- | ----------------------- | --------- | ----------------- |
 | Auth      | awsamplifyecommerceauth | Create    | awscloudformation |
@@ -97,6 +97,7 @@ Run **`amplify status`** to get a list of resources that Amplify has detected in
 | Storage   | dynamodbitems           | Create    | awscloudformation |
 | Function  | lambdaitems             | Create    | awscloudformation |
 | Api       | awsamplifyecommerceapi  | Create    | awscloudformation |
+```
 
 The table above indicates that 5 backend features have been detected in the project.  As these features have not been deployed to the cloud yet they have *Create* listed as the next operation.
 
