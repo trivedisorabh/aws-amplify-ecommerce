@@ -21,6 +21,9 @@ The two components at the core of this lab are the front-end built using React a
 
 We will break this builder session into stages to build out our application.
 
+## Store
+~[store](.images/store-demo.png)
+
 ## [Environment Setup](documentation/setup/)
 We'll be using the AWS Cloud9 environment to work with Amplify and deploy our application.  This step will create and configure the Cloud9 environment.  We'll then install the AWS Amplify CLI.
 
