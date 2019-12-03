@@ -16,10 +16,10 @@ We'll now setup the backend environment for our application as well as establish
 
 We're now going to clone our e-commerce store and the backend environment to support it.
 
-Simply `git clone` the repo `https://github.com/StefanBuchman/aws-amplify-ecommerce` into another folder using the following commands:
+Simply `git clone` the repo `https://github.com/aws-samples/aws-amplify-ecommerce` into another folder using the following commands:
 
 ```Shell
-git clone https://github.com/StefanBuchman/aws-amplify-ecommerce
+git clone https://github.com/aws-samples/aws-amplify-ecommerce
 cd aws-amplify-ecommerce
 ```
 
