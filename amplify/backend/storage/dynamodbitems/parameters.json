@@ -1,0 +1,5 @@
+{
+    "tableName": "awsamplifyecommerce-items",
+    "partitionKeyName": "id",
+    "partitionKeyType": "N"
+}

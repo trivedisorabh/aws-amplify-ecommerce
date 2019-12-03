@@ -1,0 +1,20 @@
+{
+    "appName": "awsamplifyecommerce",
+    "roleName": "pinpointLambdaRole540a9bc6",
+    "cloudWatchPolicyName": "cloudWatchPolicy540a9bc6",
+    "pinpointPolicyName": "pinpointPolicy540a9bc6",
+    "authPolicyName": "pinpoint_amplify_540a9bc6",
+    "unauthPolicyName": "pinpoint_amplify_540a9bc6",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

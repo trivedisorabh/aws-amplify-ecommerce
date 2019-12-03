@@ -1,0 +1,38 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "lambdaitems",
+            "privacy": {
+                "private": true,
+                "auth": [
+                    "/POST",
+                    "/GET"
+                ]
+            }
+        }
+    ],
+    "resourceName": "awsamplifyecommerceapi",
+    "apiName": "awsamplifyecommerceapi",
+    "functionArns": [
+        {
+            "lambdaFunction": "lambdaitems"
+        }
+    ],
+    "privacy": {
+        "auth": 1,
+        "unauth": 0,
+        "authRoleName": "amplify-awsamplifyecommerce-dev-140245-authRole",
+        "unAuthRoleName": "amplify-awsamplifyecommerce-dev-140245-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "lambdaitems",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1001,
+        "name": "Echo Show 5 (Charcoal)",
+        "title": "Echo Show 5 – Compact smart display with Alexa - Charcoal",
+        "type": "echo",
+        "image": "/images/products/show5.jpg",
+        "mainImage": "/images/products/1001.jpg",
+        "stars": 5,
+        "price": 89.99,
+        "info": [
+            "Alexa can show you more – Compact 5.5” smart display ready to help manage your day, entertain at a glance, and connect you to friends and family.",
+            "Made to fit your life – Cook along to step-by-step recipes. Easily update to-do lists and calendars. Glance at weather and traffic on your way out.",
+            "Big entertainment – Ask Alexa to show you movie trailers or the news. Or listen to radio stations, podcasts, and audiobooks."
+        ]
+    },
+    {
+        "id": 1002,
+        "name": "Echo Show 5 (Sandstone)",
+        "title": "Echo Show 5 – Compact smart display with Alexa - Sandstone",
+        "type": "echo",
+        "image": "/images/products/show5w.jpg",
+        "mainImage": "/images/products/1002.jpg",
+        "stars": 5,
+        "price": 89.99,
+        "info": [
+            "Alexa can show you more – Compact 5.5” smart display ready to help manage your day, entertain at a glance, and connect you to friends and family.",
+            "Made to fit your life – Cook along to step-by-step recipes. Easily update to-do lists and calendars. Glance at weather and traffic on your way out.",
+            "Big entertainment – Ask Alexa to show you movie trailers or the news. Or listen to radio stations, podcasts, and audiobooks."
+        ]
+    },
+    {
+        "id": 1003,
+        "name": "Echo Show",
+        "title": "Echo Show (2nd Gen) - Smart display with Alexa - Charcoal",
+        "type": "echo",
+        "image": "/images/products/show.jpg",
+        "mainImage": "/images/products/1003.jpg",
+        "stars": 5,
+        "price": 179.99,
+        "info": [
+            "Bigger sound, better screen - Premium speakers with Dolby processing let you stream music and books in crisp, stereo sound. With a vibrant 10 inch HD screen for watching videos, movies and TV shows - in a new fabric design.",
+            "Your new digital photo frame – Personalize the screen with your photos or ask Alexa to show your photos.",
+            "Alexa can show you more - Watch movies and shows from Prime Video, stream live TV with a Hulu subscription, or music videos from Vevo. See song lyrics and album art with Amazon Music or stream from Apple Music, Spotify, Pandora, Audible and more."
+        ]
+    },
+    {
+        "id": 1004,
+        "name": "Echo Spot",
+        "title": "Echo Spot - Smart Alarm Clock with Alexa - Black",
+        "type": "echo",
+        "image": "/images/products/spot.jpg",
+        "mainImage": "/images/products/1004.jpg",
+        "stars": 5,
+        "price": 129.99,
+        "info": [
+            "Echo Spot is designed to fit anywhere in your home. Use 2nd generation far-field voice recognition to watch the news, see music lyrics, weather forecasts, to-do and shopping lists, browse and listen to Audible audiobooks, and more. All hands-free—just ask.",
+            "Echo Spot connects to Alexa, a cloud-based voice service to play music, read the news, answer questions, set music alarms, control smart home, and more.",
+            "Just ask to play a song, artist, or genre, and see lyrics with Amazon Music. Also, stream music from Apple Music, Spotify, Pandora, and other music services, or books from Audible."
+        ]
+    },
+    {
+        "id": 2001,
+        "name": "Echo Sub",
+        "title": "Echo Sub - Powerful subwoofer for your Echo",
+        "type": "companion",
+        "image": "/images/products/sub.jpg",
+        "mainImage": "/images/products/2001.jpg",
+        "stars": 4,
+        "price": 129.99,
+        "info": [
+            "Echo Sub delivers down-firing, 100W deep bass sound through a 6-inch woofer.",
+            "Pair with one Echo or Echo Plus (sold separately) to enjoy dynamic music that fills the room.",
+            "Simple to set up and use—just plug in, open the Alexa app, and wirelessly connect to your Echo device(s) to control music with your voice"
+        ]
+    },
+    {
+        "id": 2002,
+        "name": "Echo Link",
+        "title": "Echo Link - Stream hi-fi music to your stereo system",
+        "type": "companion",
+        "image": "/images/products/link.jpg",
+        "mainImage": "/images/products/2002.jpg",
+        "stars": 3.5,
+        "price": 199.99,
+        "info": [
+            "Upgrade your stereo system with high-fidelity streaming music and Alexa.",
+            "Voice control music selection and playback with your compatible Echo device or the Alexa app.",
+            "Connect Echo Link to your stereo and group with other supported Echo devices to play music throughout your home."
+        ]
+    },
+    {
+        "id": 2003,
+        "name": "Echo Link Amp",
+        "title": "Echo Link Amp - Stream and amplify hi-fi music to your speakers",
+        "type": "companion",
+        "image": "/images/products/amp.jpg",
+        "mainImage": "/images/products/2003.jpg",
+        "stars": 4,
+        "price": 299.99,
+        "info": [
+            "Upgrade your speakers with a built-in 60W x 2-channel amplifier, high-fidelity streaming music, and Alexa.",
+            "Voice control music selection and playback with your compatible Echo device or the Alexa app.",
+            "Connect Echo Link Amp to speakers and group with other supported Echo devices to play music throughout your home."
+        ]
+    },
+    {
+        "id": 2004,
+        "name": "Echo Connect",
+        "title": "Echo Connect – requires compatible Alexa-enabled device and home phone service",
+        "type": "companion",
+        "image": "/images/products/connect.jpg",
+        "mainImage": "/images/products/2004.jpg",
+        "stars": 3.5,
+        "price": 34.99,
+        "info": [
+            "Connect your home phone to your compatible Alexa-enabled device to call any phone number, using just your voice.",
+            "Echo Connect uses your existing home phone service (analog landline or VoIP) to make and receive calls (carrier charges may apply). You can control if Alexa dials a ‘1’ for local calls or not.",
+            "Plug Echo Connect into your home phone jack, complete setup with the Alexa App or on alexa.amazon.com, and you’re ready to make and receive calls."
+        ]
+    }
+]
